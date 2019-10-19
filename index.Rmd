@@ -40,25 +40,25 @@ maec@inegi.org.mx (trámites y asuntos administrativos)
 
 # **Cálculo**
 
-- [Presentación de la clase](materiales/PropedeuticoCalculo.pdf)
+- [Presentación de la clase](materiales/PropedeuticoCalculo.pdf){target="_blank"}
 
-- [Tarea](materiales/TareaCalculo.pdf)
+- [Tarea](materiales/TareaCalculo.pdf){target="_blank"}
 
 <br>
 
 # **Álgebra Matricial**
 
-- [Presentación de la clase](materiales/prope_inegi.pdf)
+- [Presentación de la clase](materiales/prope_inegi.pdf){target="_blank"}
 
-- [Tarea](materiales/tarea_prope_inegi.pdf)
+- [Tarea](materiales/tarea_prope_inegi.pdf){target="_blank"}
 
 <br>
 
-# **Introducción a Programación (R)**
+# **Introducción a la Programación (R)**
 
-- [Presentación de la clase](materiales/programacion_r/Introduccion-programacion-R.pdf)
+- [Presentación de la clase](materiales/programacion_r/Introduccion-programacion-R.pdf){target="_blank"}
 
-- [Descargar carpeta](materiales/programacion_r.zip)
+- [Descargar carpeta](materiales//programacion_r/programacion_r.zip)
 
 <br>
 

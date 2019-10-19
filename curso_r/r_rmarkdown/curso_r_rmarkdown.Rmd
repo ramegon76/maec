@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Se trata de un sistema para análisis estadísticos creado por Ross Ihaka y Robert Gentleman. 
 
-- R tiene una naturaleza doble: es un programa y un lenguaje de programación, desarrollado originalmente como una versión libre del lenguaje S, creado por los Laboratorios AT&T Bell.
+R tiene una naturaleza doble: es un programa y un lenguaje de programación, desarrollado originalmente como una versión libre del lenguaje S, creado por los Laboratorios AT&T Bell.
 
   </font></p> 
   <br/>
@@ -87,7 +87,7 @@ DT::datatable(bhvs,filter = 'top', options = list(
 
 </font></p> 
 
-Ver ejemplos en el Sitio Web del [**Atlas Nacional de las Abejas y Derivados Apícolas**](https://atlasapi2019.github.io/cap4.html){target="_blank"}.
+Ver ejemplos en el Sitio Web del [**Atlas Nacional de las Abejas y Derivados Apícolas**](https://atlasapi2019.github.io/cap5.html){target="_blank"}.
 
 <br/>
 <br/>
@@ -155,14 +155,10 @@ p
 
 # **Librerías** 
 
+<br>
+<br>
 
-- R es una plataforma de programación que constantemente se encuentra actualizándose. Se trata de un software libre, pero no solamente para acceder al mismo, sino también para hacer contribuciones a mejorarlo. Para ello, R cuenta con un repositorio en su página web donde usuarios especializados de todo el mundo comparten librerías (packages) desarrolladas por ellos mismos, y que son paquetes accesorios para R a manera de programas adicionales a la plataforma base, cuya finalidad es realizar funciones específicas en R.
-
-```{r i_2, fig.align='center', out.width = "100%", echo=FALSE, cache=TRUE}
-
-knitr::include_graphics("imag/auto.png")
-
-```
+R es una plataforma de programación que constantemente se encuentra actualizándose. Se trata de un software libre, pero no solamente para acceder al mismo, sino también para hacer contribuciones a mejorarlo. Para ello, R cuenta con un repositorio en su página web donde usuarios especializados de todo el mundo comparten librerías (packages) desarrolladas por ellos mismos, y que son paquetes accesorios para R a manera de programas adicionales a la plataforma base, cuya finalidad es realizar funciones específicas en R.
 
 
 # **Instalación de Librerías** 
@@ -208,9 +204,9 @@ Otros muchos sitios contienen tutoriales sobre el uso de RMarkdown, por ejemplo:
 
 2. [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/){target="_blank"}
 
-3. [Curso de Introducción a R / Generación de documentos en R Markdown](http://www.dma.ulpgc.es/profesores/personal/stat/cursoR4ULPGC/20-Rmarkdown.html){target="_blank"}
+3. [Introducción a la Generación de documentos en RMarkdown](https://es.r4ds.hadley.nz/r-markdown.html){target="_blank"}
  
-Entre muchos otros...
+
 
 
 

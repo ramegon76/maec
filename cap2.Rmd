@@ -1,5 +1,5 @@
 ---
-title: "Recursos"
+title: "**Recursos**"
 --- 
 
 <br>
@@ -25,16 +25,16 @@ opts_knit$set(width=75)
 
 # **Tutorial "Curso básico de R** 
 
-- [Tutorial](curso_r/tutorial_pdf/Curso_basico_de_R.pdf)
+- [Tutorial](curso_r/tutorial_pdf/Curso_basico_de_R.pdf){target="_blank"}
 
-- [Carpeta de materiales del tutorial](curso_r/tutorial_pdf/materiales_tutorial_R.zip)
+- [Carpeta de materiales del tutorial](curso_r/tutorial_pdf/materiales_tutorial_R.zip){target="_blank"}
 
 <br>
 
 
 # **Curso R/RMarkdown**
 
-- [Tutorial](curso_r/r_rmarkdown/curso_r_rmarkdown.html)
+- [Tutorial Documentos en RMarkdown](curso_r/r_rmarkdown/curso_r_rmarkdown.html){target="_blank"}
 
 
 </div>
