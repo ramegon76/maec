@@ -1,0 +1,18 @@
+name: pagina_maec
+output_dir: '.'
+navbar:
+  title: MAEC CIMAT 
+  type: inverse
+  right:
+  - text: Propedéutico
+    href: index.html
+  - text: Recursos
+    href: cap2.html
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    theme: cerulean
+    highlight: tango
+    lib_dir: site_libs
+    self_contained: no

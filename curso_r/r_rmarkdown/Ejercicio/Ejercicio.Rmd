@@ -1,0 +1,39 @@
+---
+title: "Untitled"
+author: "INEGI"
+date: "24 de enero de 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Titulo
+
+Texto plano
+
+
+```{r imagen1, fig.align='left', echo=FALSE, cache=TRUE,  out.width = "10%"}
+
+knitr::include_graphics("imagenes/caballos.png")
+
+```
+
+
+## subtitulo
+
+Mas texto plano
+
+
+
+
+```{r mtcars}
+library(magrittr)
+library(highcharter)
+highchart() %>% 
+  hc_title(text = "RENDIMIENTO DE COMBUSTIBLE (mpg) VS PESO DEL AUTO (x1000 lb)") %>% 
+  hc_add_series_scatter(mtcars$wt, mtcars$mpg,
+                         mtcars$hp)
+```
+
