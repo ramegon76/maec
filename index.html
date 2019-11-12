@@ -7,7 +7,6 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
-<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -70,6 +69,7 @@ code {
 }
 img {
   max-width:100%;
+  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -230,9 +230,48 @@ $(document).ready(function () {
 }
 </style>
 
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
 <!-- code folding -->
 
 
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <style type="text/css">
 
@@ -281,6 +320,8 @@ div.tocify {
 
 .tocify-subheader .tocify-item {
   font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
 }
 
 .tocify .list-group-item {
@@ -349,29 +390,31 @@ div.tocify {
 
 <p><br> <br></p>
 <div class="text-justify">
-<h2 id="presentación"><strong>Presentación</strong></h2>
+<h2 id="presentacion"><strong>Presentación</strong></h2>
 <p>Página web para compartir información sobre la Maestría en Análisis Estadístico y Computación del CIMAT.</p>
-<p>Cualquier aportación, comentarios e información al respecto, favor de dirigirlas al correo: <a href="mailto:raul.mejia@inegi.org.mx" class="email">raul.mejia@inegi.org.mx</a></p>
+<p>Cualquier aportación, comentarios e información al respecto, favor de dirigirlas al correo: <a href="mailto:raul.mejia@inegi.org.mx">raul.mejia@inegi.org.mx</a></p>
 <p>Correos CIMAT:</p>
-<p><a href="mailto:posgrado.maec@cimat.mx" class="email">posgrado.maec@cimat.mx</a> (para asesorías y tareas)</p>
-<p><a href="mailto:maec@inegi.org.mx" class="email">maec@inegi.org.mx</a> (trámites y asuntos administrativos)</p>
+<p><a href="mailto:posgrado.maec@cimat.mx">posgrado.maec@cimat.mx</a> (para asesorías y tareas)</p>
+<p><a href="mailto:maec@inegi.org.mx">maec@inegi.org.mx</a> (trámites y asuntos administrativos)</p>
 <p><br> <br></p>
-<h1 id="cálculo"><strong>Cálculo</strong></h1>
+<h1 id="calculo"><strong>Cálculo</strong></h1>
 <ul>
 <li><p><a href="materiales/PropedeuticoCalculo.pdf" target="_blank">Presentación de la clase</a></p></li>
 <li><p><a href="materiales/TareaCalculo.pdf" target="_blank">Tarea</a></p></li>
 </ul>
 <p><br></p>
-<h1 id="álgebra-matricial"><strong>Álgebra Matricial</strong></h1>
+<h1 id="algebra-matricial"><strong>Álgebra Matricial</strong></h1>
 <ul>
 <li><p><a href="materiales/prope_inegi.pdf" target="_blank">Presentación de la clase</a></p></li>
 <li><p><a href="materiales/tarea_prope_inegi.pdf" target="_blank">Tarea</a></p></li>
 </ul>
 <p><br></p>
-<h1 id="introducción-a-la-programación-r"><strong>Introducción a la Programación (R)</strong></h1>
+<h1 id="introduccion-a-la-programacion-r"><strong>Introducción a la Programación (R)</strong></h1>
 <ul>
 <li><p><a href="materiales/programacion_r/Introduccion-programacion-R.pdf" target="_blank">Presentación de la clase</a></p></li>
-<li><p><a href="materiales//programacion_r/programacion_r.zip">Descargar carpeta</a></p></li>
+<li><p><a href="materiales/programacion_r/programacion_r.zip">Descargar carpeta</a></p></li>
+<li><p><a href="materiales/Tarea-programacion-R.pdf">Tarea 1</a></p></li>
+<li><p><a href="materiales/TProgra1_40.R">Tarea 1 Resuelta</a></p></li>
 </ul>
 <p><br></p>
 <h1 id="probabilidad"><strong>Probabilidad</strong></h1>
@@ -395,49 +438,6 @@ $(document).ready(function () {
 });
 
 
-</script>
-
-<!-- tabsets -->
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
-<!-- code folding -->
-
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
 </script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
