@@ -140,7 +140,7 @@ AA
 # Halle la matriz inversa con dos decimales de precisión y verifique 
 # que el producto de las matrices en ambos órdenes da la identidad.
 #
-AAinv <- solve(AA)
+AAinv <- round(solve(AA),2)
 AAinv
 round(AA%*%AAinv,0)
 
