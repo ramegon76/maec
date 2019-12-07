@@ -68,7 +68,9 @@ maec@inegi.org.mx (trámites y asuntos administrativos)
 
 # **Probabilidad**
 
-- [Presentación de la clase](materiales/MAEC_Clase1_Probabilidad.pdf){target="_blank"}
+- [Presentación de la clase. Parte 1](materiales/MAEC_Clase1_Prob.pdf){target="_blank"}
+
+- [Presentación de la clase. Parte 2](materiales/MAEC_Clase2_Prob.pdf){target="_blank"}
 
 - [Tarea](materiales/MAEC_Tarea1_Probabilidad.pdf)
 
