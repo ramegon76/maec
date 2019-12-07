@@ -2,5 +2,80 @@
 title: "**Propedéutico**"
 --- 
 
-temporarily unavailable
+<br>
+<br>
+
+
+```{r knitr_init, echo=FALSE, cache=FALSE}
+library(knitr)
+library(rmdformats)
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+               cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+<div class=text-justify>
+
+## **Presentación** 
+
+Página web para compartir información sobre la Maestría en Análisis Estadístico y Computación del CIMAT.
+
+Cualquier aportación, comentarios e información al respecto, favor de dirigirlas al correo: raul.mejia@inegi.org.mx
+
+Correos CIMAT:
+
+posgrado.maec@cimat.mx  (para asesorías y tareas)
+
+maec@inegi.org.mx (trámites y asuntos administrativos)
+
+<br>
+<br>
+
+# **Cálculo**
+
+- [Presentación de la clase](materiales/PropedeuticoCalculo.pdf){target="_blank"}
+
+- [Tarea](materiales/TareaCalculo.pdf){target="_blank"}
+
+<br>
+
+# **Álgebra Matricial**
+
+- [Presentación de la clase](materiales/prope_inegi.pdf){target="_blank"}
+
+- [Tarea](materiales/tarea_prope_inegi.pdf){target="_blank"}
+
+<br>
+
+# **Introducción a la Programación (R)**
+
+- [Presentación de la clase](materiales/programacion_r/Introduccion-programacion-R.pdf){target="_blank"}
+
+- [Descargar carpeta](materiales/programacion_r/programacion_r.zip)
+
+- [Tarea](materiales/Tarea-programacion-R.pdf)
+
+
+
+<br>
+
+# **Probabilidad**
+
+- [Presentación de la clase](materiales/MAEC_Clase1_Probabilidad.pdf){target="_blank"}
+
+- [Tarea](materiales/MAEC_Tarea1_Probabilidad.pdf)
+
+
+
+</div>
+
+
+
 
