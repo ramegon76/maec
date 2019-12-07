@@ -60,9 +60,8 @@ maec@inegi.org.mx (trámites y asuntos administrativos)
 
 - [Descargar carpeta](materiales/programacion_r/programacion_r.zip)
 
-- [Tarea 1](materiales/Tarea-programacion-R.pdf)
+- [Tarea](materiales/Tarea-programacion-R.pdf)
 
-- [Tarea 1 Resuelta](materiales/TProgra1_40.R)
 
 
 <br>

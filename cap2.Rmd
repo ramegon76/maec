@@ -77,7 +77,8 @@ opts_knit$set(width=75)
 - [Rice. *Mathematical Statistics and Data Analysis*](libros_pdf/Rice_J._Mathematical_Statistics_and_Data_Analysis.pdf){target="_blank"} 
 
 - [Meyer. *Probabilidad y Aplicaciones Estadisticas*](libros_pdf/Probabilidad_y_Aplicaciones_Estadisticas.pdf){target="_blank"}
- 
+
+
 </div>
 
 
