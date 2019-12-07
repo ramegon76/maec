@@ -1,3 +1,0 @@
-Teclado 1 2
-Mouse   2 2
-Lapiz   1 2

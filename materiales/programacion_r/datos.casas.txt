@@ -1,6 +1,0 @@
-Precio	Superficie	Area	Habitaciones	Años	Calef
-52.00	111.00	830	5	6.2	no
-54.75	128.00	710	5	7.5	no
-57.50	101.00	1000	5	4.2	no
-57.50	131.00	690	6	8.8	no
-59.75	93.00	900	5	1.9	no
