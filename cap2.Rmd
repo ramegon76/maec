@@ -23,7 +23,7 @@ opts_knit$set(width=75)
 
 <div class=text-justify>
 
-# **Tutorial "Curso básico de R** 
+# **Tutorial "Curso básico de R"** 
 
 - [Tutorial](curso_r/tutorial_pdf/Curso_basico_de_R.pdf){target="_blank"}
 
@@ -32,11 +32,52 @@ opts_knit$set(width=75)
 <br>
 
 
-# **Curso R/RMarkdown**
+# **Curso R / RMarkdown**
 
 - [Tutorial Documentos en RMarkdown](curso_r/r_rmarkdown/curso_r_rmarkdown.html){target="_blank"}
 
+<br>
 
+# **Libros**
+
+- [Anton,H. *Álgebra lineal*](libros_pdf/algebra_lineal_Anton.pdf){target="_blank"}
+
+- [Friedberg & Insel. *Álgebra lineal*](libros_pdf/algebra_lineal_Friedberg_Insel.pdf){target="_blank"}
+
+- [García. *Álgebra lineal, problemas resueltos*](libros_pdf/algebra_lineal_problemas_resueltos_Garcia.pdf){target="_blank"}
+
+- [Goloviná. *Álgebra lineal y aplicaciones*](libros_pdf/algebra_lineal_aplicaciones_Golovina.pdf){target="_blank"}
+
+- [Acuña. *Análisis de Regresión*](libros_pdf/analisis_de_regresion_Acuña.pdf){target="_blank"}
+
+- [Muñoz & Sánchez. *Apuntes de Estadística*](libros_pdf/apuntes_de_estadistica_Muñoz_Sánchez.pdf){target="_blank"}
+
+- [Leithold. *Cálculo*](libros_pdf/cálculo_Leithold.pdf){target="_blank"}
+
+- [Marsden & Tromba. *Cálculo Vectorial*](libros_pdf/cálculo_vectorial_Marsden_Tromba.pdf){target="_blank"}
+
+- [Courant & John. *Cálculo y Análisis Matemático*](libros_pdf/cálculo_analisis_matemático_Courant_John.zip){target="_blank"}
+
+- [Apostol. *Calculus*](libros_pdf/calculus_Apostol.zip){target="_blank"}
+
+- [Agresti. *Categorical Data Analysis*](libros_pdf/cda_Agresti.pdf){target="_blank"}
+
+- [Solow. *Como Hacer y Entender Demostraciones en Matemáticas*](libros_pdf/demostraciones_Solow.pdf){target="_blank"}
+
+- [Triola. *Estadística*](libros_pdf/estadística_Triola.pdf){target="_blank"}
+ 
+- [Ross. *Introduction To Probability Models*](libros_pdf/prob_models_Ross.pdf){target="_blank"}
+  
+- [Aleksandrov & Kolmogorov. *Matemática*](libros_pdf/matemática_Aleksandrov_Kolmogorov.zip){target="_blank"}
+ 
+- [Rosell. *Matemáticas Aplicadas a las Ciencias Sociales*](libros_pdf/macs_Rosell.pdf){target="_blank"} 
+
+- [Canavos. *Probabilidad y Estadística*](libros_pdf/probabilidad_estadística_Canavos.pdf){target="_blank"} 
+
+- [Rice. *Mathematical Statistics and Data Analysis*](libros_pdf/Rice_J._Mathematical_Statistics_and_Data_Analysis.pdf){target="_blank"} 
+
+- [Meyer. *Probabilidad y Aplicaciones Estadisticas*](libros_pdf/Probabilidad_y_Aplicaciones_Estadisticas.pdf){target="_blank"}
+ 
 </div>
 
 

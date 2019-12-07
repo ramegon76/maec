@@ -58,11 +58,21 @@ maec@inegi.org.mx (trámites y asuntos administrativos)
 
 - [Presentación de la clase](materiales/programacion_r/Introduccion-programacion-R.pdf){target="_blank"}
 
-- [Descargar carpeta](materiales//programacion_r/programacion_r.zip)
+- [Descargar carpeta](materiales/programacion_r/programacion_r.zip)
+
+- [Tarea 1](materiales/Tarea-programacion-R.pdf)
+
+- [Tarea 1 Resuelta](materiales/TProgra1_40.R)
+
 
 <br>
 
 # **Probabilidad**
+
+- [Presentación de la clase](materiales/MAEC_Clase1_Probabilidad.pdf){target="_blank"}
+
+- [Tarea](materiales/MAEC_Tarea1_Probabilidad.pdf)
+
 
 
 </div>
