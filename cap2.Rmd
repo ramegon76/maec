@@ -78,6 +78,11 @@ opts_knit$set(width=75)
 
 - [Meyer. *Probabilidad y Aplicaciones Estadisticas*](libros_pdf/Probabilidad_y_Aplicaciones_Estadisticas.pdf){target="_blank"}
 
+- [Lay. *Linear Algebra and Its Applications*](libros_pdf/Lay_Linear_algebra.pdf){target="_blank"}
+
+- [Fieller. *Basics of Matrix Algebra for Statistics with R*](libros_pdf/Fieller 16 Basics of Matrix Algebra for Statistics with R.pdf){target="_blank"}
+
+
 
 </div>
 

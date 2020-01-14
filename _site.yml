@@ -6,6 +6,8 @@ navbar:
   right:
   - text: Propedéutico
     href: index.html
+  - text: Primer Semestre
+    href: cap1a.html
   - text: Recursos
     href: cap2.html
 output:
