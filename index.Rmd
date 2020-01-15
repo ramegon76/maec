@@ -1,5 +1,5 @@
 ---
-title: "**Propedéutico**"
+title: "**Presentación**"
 --- 
 
 <br>
@@ -23,7 +23,7 @@ opts_knit$set(width=75)
 
 <div class=text-justify>
 
-## **Presentación** 
+# **Objetivo** 
 
 Página web para compartir información sobre la Maestría en Análisis Estadístico y Computación del CIMAT.
 
