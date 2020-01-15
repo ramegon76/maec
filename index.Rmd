@@ -29,16 +29,30 @@ Página web para compartir información sobre la Maestría en Análisis Estadís
 
 Cualquier aportación, comentarios e información al respecto, favor de dirigirlas al correo: raul.mejia@inegi.org.mx
 
+<br>
+
 Correos CIMAT:
 
-posgrado.maec@cimat.mx  (para asesorías y tareas)
+- posgrado.maec@cimat.mx  (para asesorías y tareas)
 
-maec@inegi.org.mx (trámites y asuntos administrativos)
+- maec@inegi.org.mx (trámites y asuntos administrativos)
+
+<br>
+
+- [Plataforma para el apoyo de los cursos CIMAT](http://201.116.172.104:8080/){target="_blank"}
+
+- [Calendario 2020](materiales/Calendario MAEC 2020.pdf){target="_blank"}
+
+
 
 <br>
 <br>
 
-# **Cálculo**
+# **Propedéutico**
+
+<br>
+
+## **Cálculo**
 
 - [Presentación de la clase](materiales/PropedeuticoCalculo.pdf){target="_blank"}
 
@@ -46,7 +60,7 @@ maec@inegi.org.mx (trámites y asuntos administrativos)
 
 <br>
 
-# **Álgebra Matricial**
+## **Álgebra Matricial**
 
 - [Presentación de la clase](materiales/prope_inegi.pdf){target="_blank"}
 
@@ -54,7 +68,7 @@ maec@inegi.org.mx (trámites y asuntos administrativos)
 
 <br>
 
-# **Introducción a la Programación (R)**
+## **Introducción a la Programación (R)**
 
 - [Presentación de la clase](materiales/programacion_r/Introduccion-programacion-R.pdf){target="_blank"}
 
@@ -66,7 +80,7 @@ maec@inegi.org.mx (trámites y asuntos administrativos)
 
 <br>
 
-# **Probabilidad**
+## **Probabilidad**
 
 - [Presentación de la clase. Parte 1](materiales/MAEC_Clase1_Prob.pdf){target="_blank"}
 
