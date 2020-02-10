@@ -54,27 +54,27 @@ Correos CIMAT:
 
 ## **Cálculo**
 
-- [Presentación de la clase](materiales/PropedeuticoCalculo.pdf){target="_blank"}
+- [Presentación de la clase](materiales/prope/PropedeuticoCalculo.pdf){target="_blank"}
 
-- [Tarea](materiales/TareaCalculo.pdf){target="_blank"}
+- [Tarea](materiales/prope/TareaCalculo.pdf){target="_blank"}
 
 <br>
 
 ## **Álgebra Matricial**
 
-- [Presentación de la clase](materiales/prope_inegi.pdf){target="_blank"}
+- [Presentación de la clase](materiales/prope/prope_inegi.pdf){target="_blank"}
 
-- [Tarea](materiales/tarea_prope_inegi.pdf){target="_blank"}
+- [Tarea](materiales/prope/tarea_prope_inegi.pdf){target="_blank"}
 
 <br>
 
 ## **Introducción a la Programación (R)**
 
-- [Presentación de la clase](materiales/programacion_r/Introduccion-programacion-R.pdf){target="_blank"}
+- [Presentación de la clase](materiales/prope/programacion_r/Introduccion-programacion-R.pdf){target="_blank"}
 
-- [Descargar carpeta](materiales/programacion_r/programacion_r.zip)
+- [Descargar carpeta](materiales/prope/programacion_r/programacion_r.zip)
 
-- [Tarea](materiales/Tarea-programacion-R.pdf)
+- [Tarea](materiales/prope/Tarea-programacion-R.pdf)
 
 
 
@@ -82,11 +82,11 @@ Correos CIMAT:
 
 ## **Probabilidad**
 
-- [Presentación de la clase. Parte 1](materiales/MAEC_Clase1_Prob.pdf){target="_blank"}
+- [Presentación de la clase. Parte 1](materiales/prope/MAEC_Clase1_Prob.pdf){target="_blank"}
 
-- [Presentación de la clase. Parte 2](materiales/MAEC_Clase2_Prob.pdf){target="_blank"}
+- [Presentación de la clase. Parte 2](materiales/prope/MAEC_Clase2_Prob.pdf){target="_blank"}
 
-- [Tarea](materiales/MAEC_Tarea1_Probabilidad.pdf)
+- [Tarea](materiales/prope/MAEC_Tarea1_Probabilidad.pdf)
 
 
 

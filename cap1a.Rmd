@@ -25,9 +25,71 @@ opts_knit$set(width=75)
 
 # **Álgebra Matricial y Optimización** 
 
-- [Presentación 1](materiales/primer_sem/2020 inegi algebra matricial.pdf){target="_blank"}
+<br>
 
-- [Notas de clase 10-01-2020](materiales/primer_sem/AlgebraMNotas10012020.pdf){target="_blank"}
+- [Presentación clases 10, 11, 24 y 25 enero. Desde espacios vectoriales hasta factorización LU](materiales/primer_sem/algebra_matricial/Álgebra Matricial Segunda Parte.pdf){target="_blank"}
 
-- [Notas de clase 11-01-2020](materiales/primer_sem/AlgebraMNotas11012020.pdf){target="_blank"}
+- [Notas pizarra 10-01-2020](materiales/primer_sem/algebra_matricial/AlgebraMNotas10012020.pdf){target="_blank"}
+
+- [Notas pizarra 11-01-2020](materiales/primer_sem/algebra_matricial/AlgebraMNotas11012020.pdf){target="_blank"}
+
+- [Solución Tarea 1](materiales/primer_sem/algebra_matricial/Tarea1_solucion.pdf){target="_blank"}
+
+<br>
+
+- [Notas pizarra 24-01-2020](materiales/primer_sem/algebra_matricial/Nota_Algebra24012020.pdf){target="_blank"}
+
+- [Notas pizarra 25-01-2020](materiales/primer_sem/algebra_matricial/Nota_Algebra25012020.pdf){target="_blank"}
+
+- [Tarea 2](materiales/primer_sem/algebra_matricial/Tarea-2.pdf){target="_blank"}
+
+
+<br>
+
+- [Presentación clases 07 y 08 febrero. Retoma desde lámina 83, con ejemplos de descomposición LU, espacios asociados y valores propios](materiales/primer_sem/algebra_matricial/2020 inegi algebra matricial.pdf){target="_blank"}
+
+- [Notas pizarra 07-02-2020](materiales/primer_sem/algebra_matricial/Nota_Algebra24012020.pdf){target="_blank"}
+
+- [Notas pizarra 08-02-2020](materiales/primer_sem/algebra_matricial/Nota_Algebra25012020.pdf){target="_blank"}
+
+
+
+<br>
+<br>
+<br>
+
+# **Inferencia Estadística** 
+
+<br>
+
+- [Temario](materiales/primer_sem/inferencia_estadistica/Temario.pdf){target="_blank"}
+
+<br>
+
+
+- [Presentación 17 y 18 de enero. Variables aleatorias y distribuciones de probabilidad](materiales/primer_sem/inferencia_estadistica/Inf_Estadistica_1.pdf){target="_blank"}
+
+- [Notas pizarra 17-01-2020](materiales/primer_sem/inferencia_estadistica/17012020_INFERENCIA_ESTADISTICA_NOTA.pdf){target="_blank"}
+
+- [Notas pizarra 18-01-2020](materiales/primer_sem/inferencia_estadistica/18012020_INFERENCIA_ESTADISTICA_NOTA.pdf){target="_blank"}
+
+- [Tarea 1](materiales/primer_sem/inferencia_estadistica/Tarea1.pdf){target="_blank"}
+
+- [Solución Tarea 1](materiales/primer_sem/inferencia_estadistica/T01_Solution.pdf){target="_blank"}
+
+<br>
+
+<br>
+
+
+- [Presentación 31 de enero y 01 de febrero. VVariables aleatorias y distribuciones de probabilidad multivariadas](materiales/primer_sem/inferencia_estadistica/Inf_Estadistica_2.pdf){target="_blank"}
+
+- [Notas pizarra 31-01-2020](materiales/primer_sem/inferencia_estadistica/31012020_INFERENCIA_ESTADISTICA_NOTA.pdf){target="_blank"}
+
+- [Notas pizarra 01-02-2020](materiales/primer_sem/inferencia_estadistica/01022020_INFERENCIA_ESTADISTICA_NOTA.pdf){target="_blank"}
+
+- [Tarea 2](materiales/primer_sem/inferencia_estadistica/Tarea2.pdf){target="_blank"}
+
+
+
 

@@ -76,15 +76,30 @@ opts_knit$set(width=75)
 
 - [Rice. *Mathematical Statistics and Data Analysis*](libros_pdf/Rice_J._Mathematical_Statistics_and_Data_Analysis.pdf){target="_blank"} 
 
-- [Meyer. *Probabilidad y Aplicaciones Estadisticas*](libros_pdf/Probabilidad_y_Aplicaciones_Estadisticas.pdf){target="_blank"}
+- [Meyer. *Probabilidad y Aplicaciones Estadisticas*](libros_pdf/Meyer Probabilidad y Aplicaciones Estadisticas Edicion Revisada.pdf){target="_blank"}
 
 - [Lay. *Linear Algebra and Its Applications*](libros_pdf/Lay_Linear_algebra.pdf){target="_blank"}
 
 - [Fieller. *Basics of Matrix Algebra for Statistics with R*](libros_pdf/Fieller 16 Basics of Matrix Algebra for Statistics with R.pdf){target="_blank"}
 
+- [Sánchez Corona. *Probabilidad y Estadística*](libros_pdf/Cap8_9_Sanchez Corona - Probabilidad y estadística(2004).pdf){target="_blank"}
+
+- [Wasserman. *All of Statistics: A Concise Course in Statistical Inference*](libros_pdf/Wasserman_All_of_statistics.pdf){target="_blank"}
+
+- [Dalgaard. *Introductory Statistics with R*](libros_pdf/Introductory_Statistics_with_R__2nd_ed.pdf){target="_blank"}
+
+- [Baclawski *Introduction to Probability with R*](libros_pdf/Baclawski, Kenneth - Introduction to Probability with R-CRC Press (2008).pdf){target="_blank"}
+
+- [Dekking *A Modern Introduction to Probability and Statistics*](libros_pdf/Modern_intro_probability_statistics_Dekking05.pdf){target="_blank"}
+
+- [Dobrow* Probability With Applications and R*](libros_pdf/Robert P. Dobrow - Probability_ With Applications and R-Wiley (2013).pdf){target="_blank"}
+
+- [Jones & Maillardet *Introduction to Scientific Programming and Simulation using R*](libros_pdf/introduction-scientific-programming-simulation-r-2nd (002).pdf){target="_blank"}
 
 
 </div>
+
+
 
 
 
