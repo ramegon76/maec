@@ -48,9 +48,9 @@ opts_knit$set(width=75)
 
 - [Presentación clases 07 y 08 febrero. Retoma desde lámina 83, con ejemplos de descomposición LU, espacios asociados y valores propios](materiales/primer_sem/algebra_matricial/2020 inegi algebra matricial.pdf){target="_blank"}
 
-- [Notas pizarra 07-02-2020](materiales/primer_sem/algebra_matricial/Nota_Algebra24012020.pdf){target="_blank"}
+- [Notas pizarra 07-02-2020](materiales/primer_sem/algebra_matricial/NOTA_ALGEBRA_S5_07022020.pdf){target="_blank"}
 
-- [Notas pizarra 08-02-2020](materiales/primer_sem/algebra_matricial/Nota_Algebra25012020.pdf){target="_blank"}
+- [Notas pizarra 08-02-2020](materiales/primer_sem/algebra_matricial/NOTA_ALGEBRA_S6_08022020.pdf){target="_blank"}
 
 
 
@@ -82,7 +82,7 @@ opts_knit$set(width=75)
 <br>
 
 
-- [Presentación 31 de enero y 01 de febrero. VVariables aleatorias y distribuciones de probabilidad multivariadas](materiales/primer_sem/inferencia_estadistica/Inf_Estadistica_2.pdf){target="_blank"}
+- [Presentación 31 de enero y 01 de febrero. Variables aleatorias y distribuciones de probabilidad multivariadas](materiales/primer_sem/inferencia_estadistica/Inf_Estadistica_2.pdf){target="_blank"}
 
 - [Notas pizarra 31-01-2020](materiales/primer_sem/inferencia_estadistica/31012020_INFERENCIA_ESTADISTICA_NOTA.pdf){target="_blank"}
 
@@ -90,6 +90,13 @@ opts_knit$set(width=75)
 
 - [Tarea 2](materiales/primer_sem/inferencia_estadistica/Tarea2.pdf){target="_blank"}
 
+<br>
+<br>
 
+- [Notas pizarra 14-02-2020 parte 1](materiales/primer_sem/inferencia_estadistica/NOTA_INFERENCIA_S5_A_14022020.pdf){target="_blank"}
+
+- [Notas pizarra 14-02-2020 parte 2](materiales/primer_sem/inferencia_estadistica/NOTA_INFERENCIA_S5_B_14022020.pdf){target="_blank"}
+
+- [Notas pizarra 15-02-2020](materiales/primer_sem/inferencia_estadistica/NOTA_INFERENCIA_S6_15022020.pdf){target="_blank"}
 
 
