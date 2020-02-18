@@ -90,8 +90,13 @@ opts_knit$set(width=75)
 
 - [Tarea 2](materiales/primer_sem/inferencia_estadistica/Tarea2.pdf){target="_blank"}
 
+- [Solución Tarea 2](materiales/primer_sem/inferencia_estadistica/Tarea2_sol.pdf){target="_blank"}
+
 <br>
+
 <br>
+
+- [Presentación 14 y 15 de febrero.  Distribuciones muestrales y métodos de estimación](materiales/primer_sem/inferencia_estadistica/Inf_Estadistica_3.pdf){target="_blank"}
 
 - [Notas pizarra 14-02-2020 parte 1](materiales/primer_sem/inferencia_estadistica/NOTA_INFERENCIA_S5_A_14022020.pdf){target="_blank"}
 
@@ -99,4 +104,4 @@ opts_knit$set(width=75)
 
 - [Notas pizarra 15-02-2020](materiales/primer_sem/inferencia_estadistica/NOTA_INFERENCIA_S6_15022020.pdf){target="_blank"}
 
-
+- [Tarea 3](materiales/primer_sem/inferencia_estadistica/Tarea3.pdf){target="_blank"}
