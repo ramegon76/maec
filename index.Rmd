@@ -39,7 +39,7 @@ Correos CIMAT:
 
 <br>
 
-- [Plataforma para el apoyo de los cursos CIMAT](http://201.116.172.104:8080/){target="_blank"}
+- [Plataforma de los cursos CIMAT](http://201.116.172.104:8080/){target="_blank"}
 
 - [Calendario 2020](materiales/Calendario MAEC 2020.pdf){target="_blank"}
 

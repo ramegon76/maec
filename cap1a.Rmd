@@ -53,6 +53,19 @@ opts_knit$set(width=75)
 - [Notas pizarra 08-02-2020](materiales/primer_sem/algebra_matricial/NOTA_ALGEBRA_S6_08022020.pdf){target="_blank"}
 
 
+<br>
+
+- [Presentación Parte Final](materiales/primer_sem/algebra_matricial/Álgebra Matricial _ Parte Final.pdf){target="_blank"}
+
+- [Presentación Asesorías](materiales/primer_sem/algebra_matricial/PRESENTACION ASESORIA.pdf){target="_blank"}
+
+- [Notas pizarra 21-02-2020](materiales/primer_sem/algebra_matricial/NOTA_ALGEBRA_S7_21022020.pdf){target="_blank"}
+
+- [Notas pizarra 22-02-2020](materiales/primer_sem/algebra_matricial/NOTA_ALGEBRA_S8_22022020.pdf){target="_blank"}
+
+- [Tarea 4](materiales/primer_sem/algebra_matricial/Tarea-4.pdf){target="_blank"}
+
+
 
 <br>
 <br>
@@ -92,6 +105,7 @@ opts_knit$set(width=75)
 
 - [Solución Tarea 2](materiales/primer_sem/inferencia_estadistica/Tarea2_sol.pdf){target="_blank"}
 
+
 <br>
 
 <br>
@@ -105,3 +119,22 @@ opts_knit$set(width=75)
 - [Notas pizarra 15-02-2020](materiales/primer_sem/inferencia_estadistica/NOTA_INFERENCIA_S6_15022020.pdf){target="_blank"}
 
 - [Tarea 3](materiales/primer_sem/inferencia_estadistica/Tarea3.pdf){target="_blank"}
+
+
+
+<br>
+
+<br>
+
+
+- [Notas pizarra 28-02-2020](materiales/primer_sem/inferencia_estadistica/NOTA_INFERENCIA_S7_28022020.pdf){target="_blank"}
+
+- [Notas pizarra 29-02-2020](materiales/primer_sem/inferencia_estadistica/NOTA_INFERENCIA_S8_29022020.pdf){target="_blank"}
+
+- [Tarea 4](materiales/primer_sem/inferencia_estadistica/Tarea4.pdf){target="_blank"}
+
+
+
+
+
+

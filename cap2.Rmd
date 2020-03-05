@@ -38,6 +38,13 @@ opts_knit$set(width=75)
 
 <br>
 
+
+# **MiniCurso de R**
+
+- [Minicurso](curso_r/MiniCursoR_2.pdf){target="_blank"}
+
+<br>
+
 # **Libros**
 
 - [Anton,H. *Álgebra lineal*](libros_pdf/algebra_lineal_Anton.pdf){target="_blank"}
@@ -96,6 +103,9 @@ opts_knit$set(width=75)
 
 - [Jones & Maillardet *Introduction to Scientific Programming and Simulation using R*](libros_pdf/introduction-scientific-programming-simulation-r-2nd (002).pdf){target="_blank"}
 
+Bootstrap_Chernick2011.pdf
+
+- [Chernick & LaBudde *An Introduction to Bootstrap Methods with Applications to R*](libros_pdf/Bootstrap_Chernick2011.pdf){target="_blank"}
 
 </div>
 
