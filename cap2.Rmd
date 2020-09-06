@@ -112,6 +112,11 @@ opts_knit$set(width=75)
 
 - [Cohen & Cohen *Statistics and Data with R*](libros_pdf/epdf.tips_statistics-and-data-with-r-an-applied-approach-thr.pdf){target="_blank"}
 
+[Learning Python](libros_pdf/Learning Python 5th Ed 2013.pdf){target="_blank"}
+
+[Numerical Methods in Engineering with Python 3](libros_pdf/Numerical Methods in Engineering with Python 3.pdf){target="_blank"}
+
+
 
 
 

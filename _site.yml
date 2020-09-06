@@ -8,6 +8,8 @@ navbar:
     href: index.html
   - text: Primer Semestre
     href: cap1a.html
+  - text: Segundo Semestre
+    href: cap1b.html
   - text: Recursos
     href: cap2.html
 output:

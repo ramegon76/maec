@@ -340,6 +340,9 @@ div.tocify {
   <a href="cap1a.html">Primer Semestre</a>
 </li>
 <li>
+  <a href="cap1b.html">Segundo Semestre</a>
+</li>
+<li>
   <a href="cap2.html">Recursos</a>
 </li>
       </ul>
@@ -367,6 +370,9 @@ div.tocify {
 <li><p><a href="mailto:posgrado.maec@cimat.mx" class="email">posgrado.maec@cimat.mx</a> (para asesorías y tareas)</p></li>
 <li><p><a href="mailto:maec@inegi.org.mx" class="email">maec@inegi.org.mx</a> (trámites y asuntos administrativos)</p></li>
 </ul>
+<p><br></p>
+<h1 id="plataformas"><strong>Plataformas</strong></h1>
+<p><a href="https://bluejeans.com/353107177" target="_blank">Enlace aula virtual</a></p>
 <p><br></p>
 <ul>
 <li><p><a href="http://201.116.172.104:8080/" target="_blank">Plataforma de los cursos CIMAT</a></p></li>
@@ -452,7 +458,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0

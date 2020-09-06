@@ -340,6 +340,9 @@ div.tocify {
   <a href="cap1a.html">Primer Semestre</a>
 </li>
 <li>
+  <a href="cap1b.html">Segundo Semestre</a>
+</li>
+<li>
   <a href="cap2.html">Recursos</a>
 </li>
       </ul>
@@ -409,6 +412,8 @@ div.tocify {
 <li><p><a href="libros_pdf/epdf.tips_r-by-example-use-r.pdf" target="_blank">Albert &amp; Rizzo <em>R by example</em></a></p></li>
 <li><p><a href="libros_pdf/epdf.tips_statistics-and-data-with-r-an-applied-approach-thr.pdf" target="_blank">Cohen &amp; Cohen <em>Statistics and Data with R</em></a></p></li>
 </ul>
+<p><a href="libros_pdf/Learning%20Python%205th%20Ed%202013.pdf" target="_blank">Learning Python</a></p>
+<p><a href="libros_pdf/Numerical%20Methods%20in%20Engineering%20with%20Python%203.pdf" target="_blank">Numerical Methods in Engineering with Python 3</a></p>
 </div>
 
 
@@ -461,7 +466,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0

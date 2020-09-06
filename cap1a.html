@@ -340,6 +340,9 @@ div.tocify {
   <a href="cap1a.html">Primer Semestre</a>
 </li>
 <li>
+  <a href="cap1b.html">Segundo Semestre</a>
+</li>
+<li>
   <a href="cap2.html">Recursos</a>
 </li>
       </ul>
@@ -482,7 +485,7 @@ $(document).ready(function ()  {
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
       },
       ignoreSelector: ".toc-ignore",
       scrollTo: 0

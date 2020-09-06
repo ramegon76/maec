@@ -1,0 +1,50 @@
+---
+title: "**Segundo Semestre**"
+--- 
+
+<br>
+<br>
+
+
+```{r knitr_init, echo=FALSE, cache=FALSE}
+library(knitr)
+library(rmdformats)
+## Global options
+options(max.print="75")
+opts_chunk$set(echo=FALSE,
+               cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=75)
+```
+
+<br>
+
+<div class=text-justify>
+
+# **Programación** 
+
+<br>
+
+- [Presentación](materiales/segundo_semestre/programacion/Presentation.pdf){target="_blank"}
+
+- [Primera clase](materiales/segundo_semestre/programacion/python1.pdf){target="_blank"}
+
+- [Segunda clase](materiales/segundo_semestre/programacion/python2.pdf){target="_blank"}
+
+- [Tercera clase](materiales/segundo_semestre/programacion/ip_python3.pdf){target="_blank"}
+
+- [Geopandas](materiales/segundo_semestre/programacion/PresentationGeoPandas.pdf){target="_blank"}
+
+- [Guia rápida matlab, python y R](materiales/segundo_semestre/programacion/PythonMatlabAndR.pdf){target="_blank"}
+
+- [Ejercicios 1](materiales/segundo_semestre/programacion/EjerciciosPython.pdf){target="_blank"}
+
+- [Ejercicios 2](materiales/segundo_semestre/programacion/EjerciciosClase3.pdf){target="_blank"}
+
+
+
+
