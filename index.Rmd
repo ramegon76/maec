@@ -41,11 +41,13 @@ Correos CIMAT:
 
 # **Plataformas**
 
-[Enlace aula virtual](https://bluejeans.com/353107177){target='_blank'}
+- [Enlace aula virtual](https://bluejeans.com/353107177){target='_blank'}
 
 <br>
 
-- [Plataforma de los cursos CIMAT](http://201.116.172.104:8080/){target="_blank"}
+- [Plataforma de los cursos CIMAT](http://189.203.35.242:8080/){target="_blank"}
+
+<br> 
 
 - [Calendario 2020](materiales/Calendario MAEC 2020.pdf){target="_blank"}
 
