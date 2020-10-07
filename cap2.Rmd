@@ -99,24 +99,26 @@ opts_knit$set(width=75)
 
 - [Dekking *A Modern Introduction to Probability and Statistics*](libros_pdf/Modern_intro_probability_statistics_Dekking05.pdf){target="_blank"}
 
-- [Dobrow* Probability With Applications and R*](libros_pdf/Robert P. Dobrow - Probability_ With Applications and R-Wiley (2013).pdf){target="_blank"}
+- [Dobrow *Probability With Applications and R*](libros_pdf/Robert P. Dobrow - Probability_ With Applications and R-Wiley (2013).pdf){target="_blank"}
 
 - [Jones & Maillardet *Introduction to Scientific Programming and Simulation using R*](libros_pdf/introduction-scientific-programming-simulation-r-2nd (002).pdf){target="_blank"}
 
 
 - [Chernick & LaBudde *An Introduction to Bootstrap Methods with Applications to R*](libros_pdf/Bootstrap_Chernick2011.pdf){target="_blank"}
 
-- [Zuur, N.leno & Meesters *A Beginner's Guide to R. Use R!*](libros_pdf/epdf.tips_a-beginners-guide-to-r-use-r.pdf){target="_blank"}
+- [Zuur, N.leno & Meesters *A Beginner's Guide to R.*](libros_pdf/epdf.tips_a-beginners-guide-to-r-use-r.pdf){target="_blank"}
 
 - [Albert & Rizzo *R by example*](libros_pdf/epdf.tips_r-by-example-use-r.pdf){target="_blank"}
 
 - [Cohen & Cohen *Statistics and Data with R*](libros_pdf/epdf.tips_statistics-and-data-with-r-an-applied-approach-thr.pdf){target="_blank"}
 
-- [Learning Python](libros_pdf/Learning Python 5th Ed 2013.pdf){target="_blank"}
+- [*Learning Python*](libros_pdf/Learning Python 5th Ed 2013.pdf){target="_blank"}
 
-- [Numerical Methods in Engineering with Python 3](libros_pdf/Numerical Methods in Engineering with Python 3.pdf){target="_blank"}
+- [*Numerical Methods in Engineering with Python 3*](libros_pdf/Numerical Methods in Engineering with Python 3.pdf){target="_blank"}
 
+- [Novales. *Análisis de regresión*](libros_pdf/Analisis de Regresion.pdf){target="_blank"}){target="_blank"}
 
+- [Nicholas J. Horton, Ken Kleinman. *Using R and RStudio for Data Management, Statistical Analysis and Graphics*](libros_pdf/Using R and RStudio for Data Management, Statistical Analysis and Graphics by Nicholas J. Horton, Ken Kleinman (z-lib.org).pdf){target="_blank"}){target="_blank"}
 
 
 
