@@ -13,6 +13,7 @@
 
 <title>Presentación</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
@@ -23,6 +24,15 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 
 
@@ -53,6 +63,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -334,13 +345,16 @@ div.tocify {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="index.html">Propedéutico</a>
+  <a href="index.html">Presentación</a>
 </li>
 <li>
   <a href="cap1a.html">Primer Semestre</a>
 </li>
 <li>
   <a href="cap1b.html">Segundo Semestre</a>
+</li>
+<li>
+  <a href="cap1c.html">Tercer Semestre</a>
 </li>
 <li>
   <a href="cap2.html">Recursos</a>
@@ -361,7 +375,8 @@ div.tocify {
 
 <p><br> <br></p>
 <div class="text-justify">
-<h1 id="objetivo"><strong>Objetivo</strong></h1>
+<div id="objetivo" class="section level1">
+<h1><strong>Objetivo</strong></h1>
 <p>Página web para compartir información sobre la Maestría en Análisis Estadístico y Computación del CIMAT.</p>
 <p>Cualquier aportación, comentarios e información al respecto, favor de dirigirlas al correo: <a href="mailto:raul.mejia@inegi.org.mx" class="email">raul.mejia@inegi.org.mx</a></p>
 <p><br></p>
@@ -371,7 +386,9 @@ div.tocify {
 <li><p><a href="mailto:maec@inegi.org.mx" class="email">maec@inegi.org.mx</a> (trámites y asuntos administrativos)</p></li>
 </ul>
 <p><br></p>
-<h1 id="plataformas"><strong>Plataformas</strong></h1>
+</div>
+<div id="plataformas" class="section level1">
+<h1><strong>Plataformas</strong></h1>
 <ul>
 <li><a href="https://bluejeans.com/918841740" target="_blank">Enlace aula virtual</a></li>
 </ul>
@@ -384,33 +401,44 @@ div.tocify {
 <li><a href="materiales/Calendario%20MAEC%202020.pdf" target="_blank">Calendario 2020</a></li>
 </ul>
 <p><br> <br></p>
-<h1 id="propedéutico"><strong>Propedéutico</strong></h1>
+</div>
+<div id="propedéutico" class="section level1">
+<h1><strong>Propedéutico</strong></h1>
 <p><br></p>
-<h2 id="cálculo"><strong>Cálculo</strong></h2>
+<div id="cálculo" class="section level2">
+<h2><strong>Cálculo</strong></h2>
 <ul>
 <li><p><a href="materiales/prope/PropedeuticoCalculo.pdf" target="_blank">Presentación de la clase</a></p></li>
 <li><p><a href="materiales/prope/TareaCalculo.pdf" target="_blank">Tarea</a></p></li>
 </ul>
 <p><br></p>
-<h2 id="álgebra-matricial"><strong>Álgebra Matricial</strong></h2>
+</div>
+<div id="álgebra-matricial" class="section level2">
+<h2><strong>Álgebra Matricial</strong></h2>
 <ul>
 <li><p><a href="materiales/prope/prope_inegi.pdf" target="_blank">Presentación de la clase</a></p></li>
 <li><p><a href="materiales/prope/tarea_prope_inegi.pdf" target="_blank">Tarea</a></p></li>
 </ul>
 <p><br></p>
-<h2 id="introducción-a-la-programación-r"><strong>Introducción a la Programación (R)</strong></h2>
+</div>
+<div id="introducción-a-la-programación-r" class="section level2">
+<h2><strong>Introducción a la Programación (R)</strong></h2>
 <ul>
 <li><p><a href="materiales/prope/programacion_r/Introduccion-programacion-R.pdf" target="_blank">Presentación de la clase</a></p></li>
 <li><p><a href="materiales/prope/programacion_r/programacion_r.zip">Descargar carpeta</a></p></li>
 <li><p><a href="materiales/prope/Tarea-programacion-R.pdf">Tarea</a></p></li>
 </ul>
 <p><br></p>
-<h2 id="probabilidad"><strong>Probabilidad</strong></h2>
+</div>
+<div id="probabilidad" class="section level2">
+<h2><strong>Probabilidad</strong></h2>
 <ul>
 <li><p><a href="materiales/prope/MAEC_Clase1_Prob.pdf" target="_blank">Presentación de la clase. Parte 1</a></p></li>
 <li><p><a href="materiales/prope/MAEC_Clase2_Prob.pdf" target="_blank">Presentación de la clase. Parte 2</a></p></li>
 <li><p><a href="materiales/prope/MAEC_Tarea1_Probabilidad.pdf">Tarea</a></p></li>
 </ul>
+</div>
+</div>
 </div>
 
 
@@ -424,7 +452,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

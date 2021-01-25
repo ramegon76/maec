@@ -13,6 +13,7 @@
 
 <title>Recursos</title>
 
+<script src="site_libs/header-attrs-2.6/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cerulean.min.css" rel="stylesheet" />
@@ -23,6 +24,15 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 
 
@@ -53,6 +63,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -334,13 +345,16 @@ div.tocify {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="index.html">Propedéutico</a>
+  <a href="index.html">Presentación</a>
 </li>
 <li>
   <a href="cap1a.html">Primer Semestre</a>
 </li>
 <li>
   <a href="cap1b.html">Segundo Semestre</a>
+</li>
+<li>
+  <a href="cap1c.html">Tercer Semestre</a>
 </li>
 <li>
   <a href="cap2.html">Recursos</a>
@@ -361,23 +375,30 @@ div.tocify {
 
 <p><br> <br></p>
 <div class="text-justify">
-<h1 id="tutorial-curso-básico-de-r"><strong>Tutorial “Curso básico de R”</strong></h1>
+<div id="tutorial-curso-básico-de-r" class="section level1">
+<h1><strong>Tutorial “Curso básico de R”</strong></h1>
 <ul>
 <li><p><a href="curso_r/tutorial_pdf/Curso_basico_de_R.pdf" target="_blank">Tutorial</a></p></li>
 <li><p><a href="curso_r/tutorial_pdf/materiales_tutorial_R.zip" target="_blank">Carpeta de materiales del tutorial</a></p></li>
 </ul>
 <p><br></p>
-<h1 id="curso-r-rmarkdown"><strong>Curso R / RMarkdown</strong></h1>
+</div>
+<div id="curso-r-rmarkdown" class="section level1">
+<h1><strong>Curso R / RMarkdown</strong></h1>
 <ul>
 <li><a href="curso_r/r_rmarkdown/curso_r_rmarkdown.html" target="_blank">Tutorial Documentos en RMarkdown</a></li>
 </ul>
 <p><br></p>
-<h1 id="minicurso-de-r"><strong>MiniCurso de R</strong></h1>
+</div>
+<div id="minicurso-de-r" class="section level1">
+<h1><strong>MiniCurso de R</strong></h1>
 <ul>
 <li><a href="curso_r/MiniCursoR_2.pdf" target="_blank">Minicurso</a></li>
 </ul>
 <p><br></p>
-<h1 id="libros"><strong>Libros</strong></h1>
+</div>
+<div id="libros" class="section level1">
+<h1><strong>Libros</strong></h1>
 <ul>
 <li><p><a href="libros_pdf/algebra_lineal_Anton.pdf" target="_blank">Anton,H. <em>Álgebra lineal</em></a></p></li>
 <li><p><a href="libros_pdf/algebra_lineal_Friedberg_Insel.pdf" target="_blank">Friedberg &amp; Insel. <em>Álgebra lineal</em></a></p></li>
@@ -417,6 +438,7 @@ div.tocify {
 <li><p><a href="libros_pdf/Using%20R%20and%20RStudio%20for%20Data%20Management,%20Statistical%20Analysis%20and%20Graphics%20by%20Nicholas%20J.%20Horton,%20Ken%20Kleinman%20(z-lib.org).pdf" target="_blank">Nicholas J. Horton, Ken Kleinman. <em>Using R and RStudio for Data Management, Statistical Analysis and Graphics</em></a>){target="_blank"}</p></li>
 </ul>
 </div>
+</div>
 
 
 
@@ -429,7 +451,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();

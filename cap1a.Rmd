@@ -57,7 +57,7 @@ opts_knit$set(width=75)
 
 - [Presentación Parte Final](materiales/primer_sem/algebra_matricial/Álgebra Matricial _ Parte Final.pdf){target="_blank"}
 
-- [Presentación Asesorías](materiales/primer_sem/algebra_matricial/PRESENTACION ASESORIA.pdf){target="_blank"}
+- [Presentación de Asesorías](materiales/primer_sem/algebra_matricial/PRESENTACION ASESORIA.pdf){target="_blank"}
 
 - [Notas pizarra 21-02-2020](materiales/primer_sem/algebra_matricial/NOTA_ALGEBRA_S7_21022020.pdf){target="_blank"}
 

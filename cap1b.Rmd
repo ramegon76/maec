@@ -45,6 +45,19 @@ opts_knit$set(width=75)
 
 - [Ejercicios 2](materiales/segundo_semestre/programacion/EjerciciosClase3.pdf){target="_blank"}
 
+<br>
+
+<br>
 
 
+# **Modelos Estadísticos I** 
+<br>
+
+- [Notas y materiales de la clase](materiales/segundo_semestre/modelos_estadisticos_1/notas.zip){target="_blank"}
+
+- [Primer parcial](materiales/segundo_semestre/modelos_estadisticos_1/primer_parcial.zip){target="_blank"}
+
+- [Segundo parcial](materiales/segundo_semestre/modelos_estadisticos_1/segundo_parcial.zip){target="_blank"}
+
+- [Tareas](materiales/segundo_semestre/modelos_estadisticos_1/tareas.zip){target="_blank"}
 

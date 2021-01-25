@@ -4,12 +4,14 @@ navbar:
   title: MAEC CIMAT 
   type: inverse
   right:
-  - text: Propedéutico
+  - text: Presentación
     href: index.html
   - text: Primer Semestre
     href: cap1a.html
   - text: Segundo Semestre
     href: cap1b.html
+  - text: Tercer Semestre
+    href: cap1c.html
   - text: Recursos
     href: cap2.html
 output:
