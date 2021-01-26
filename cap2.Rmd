@@ -120,6 +120,13 @@ opts_knit$set(width=75)
 
 - [Nicholas J. Horton, Ken Kleinman. *Using R and RStudio for Data Management, Statistical Analysis and Graphics*](libros_pdf/Using R and RStudio for Data Management, Statistical Analysis and Graphics by Nicholas J. Horton, Ken Kleinman (z-lib.org).pdf){target="_blank"}){target="_blank"}
 
+- [Gentle, J. E. *Random Number Generation and Monte Carlo Methods* 2nd Edition](libros_pdf/Random Number Generation and Monte Carlo Methods.pdf){target="_blank"}
+
+- [Rao C. R. *Computational Statistics with R*](libros_pdf/Computational Statistics with R.pdf){target="_blank"}
+
+- [Gelman, A., Carlin, J.B. *Bayesian Data Analysis*](libros_pdf/bayesian_data_analysis.pdf){target="_blank"}
+
+- [Rusell s. *Artificial Intelligence: A Modern Approach*](libros_pdf/artificial-intelligence-modern-approach.9780131038059.25368.pdf){target="_blank"}
 
 
 </div>
